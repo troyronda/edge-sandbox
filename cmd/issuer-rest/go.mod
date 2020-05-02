@@ -12,6 +12,7 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/trustbloc/edge-core v0.1.3-0.20200414220734-842cc197e692
 	github.com/trustbloc/edge-sandbox v0.0.0
+	github.com/trustbloc/edge-service v0.1.3-0.20200502022909-ceb29b1f8dd5 // indirect
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6
 )
 
